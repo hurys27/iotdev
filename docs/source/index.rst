@@ -1,7 +1,7 @@
 Welcome to Iot Dev documentation!
 ===================================
 
-**IoT Dev** (/lu'make/) is a project for developing IoT Payload for micro-satellite.
+**IoT Dev** is a project for developing IoT Payload for micro-satellite.
 
 
 Check out the :doc:`usage` section for further information, including
